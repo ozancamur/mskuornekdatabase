@@ -1,0 +1,22 @@
+{
+    "Kullanici": [
+        {
+            "id" : "1",
+            "ad" : "Ozan",
+            "soyad" : "Çamur",
+            "email" : "ozancamur@posta.mu.edu.tr",
+            "sifre" : "123456",
+            "ogrenci" : true,
+            "komisyon" : false
+        },
+        {
+            "id" : "2",
+            "ad" : "Komisyon",
+            "soyad" : "Görevlisi",
+            "email" : "komisyongorevlisi@posta.mu.edu.tr",
+            "sifre" : "456789",
+            "ogrenci" : false,
+            "komisyon" : true
+        }
+    ]
+}
